@@ -3,8 +3,8 @@
 ## Oie, eu sou a Leticia! 🙋🏻‍♀️
 
 <b>👩🏻‍💻 Desenvolvedora web Front End Jr</b>
-<p>🐮🐽Vegana 🌎🐟 ativista & mãe de Pet. 🐶🐶</p>
-<p> 📺 Séries |♏ Astrologia |🕉 Musica 💖
+<p>🐮🐽Vegana 🌎🐟 ativista & mãe de Pet. 🐶💖🐶</p>
+<p> 📺 Séries |♏ Astrologia |🕉 Musica 
 <p>🌱Estudando: Typescript </p>
 
 
