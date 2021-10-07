@@ -5,7 +5,7 @@
 <b>👩🏻‍💻 Desenvolvedora web Front End Jr</b>
 <p>🐮🐽Vegana 🌎🐟 ativista & mãe de Pet. 🐶💖🐶</p>
 <p> 📺 Séries |♏ Astrologia |🕉 Musica 
-<p>🌱Estudando: Typescript e Linux 🐧</p>
+<p>🌱Estudando: Angular e Typescript </p>
 
 
 <div align="center">
