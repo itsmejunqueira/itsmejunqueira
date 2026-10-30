@@ -2,10 +2,10 @@
 
 ## Oie, eu sou a Leticia! 🙋🏻‍♀️
 
-<b>👩🏻‍💻 Desenvolvedora web Front End Jr</b>
-<p>🐮🐽Vegana 🌎🐟 ativista & mãe de Pet. 🐶💖🐶💖🐈 </p>
+<b>👩🏻‍💻 Desenvolvedora web Front End.</b>
+<p>🐮🐽Vegana 🌎🐟 ativista & mãe de Pet. 🐶💖🐈 </p>
 <p> 📺 Séries |♏ Astrologia |🕉 Musica 
-<p>🌱Estudante de Analise e Desenvolvimento de sistemas na Anhanguera. </p>
+<p>🌱Analise e Desenvolvimento de sistemas pela Anhanguera. </p>
 
 
 <div align="center">
