@@ -3,9 +3,9 @@
 ## Oie, eu sou a Leticia! 🙋🏻‍♀️
 
 <b>👩🏻‍💻 Desenvolvedora web Front End.</b>
+<p>🌱Analise e Desenvolvimento de sistemas pela Anhanguera. </p>
 <p>🐮🐽Vegana 🌎🐟 ativista & mãe de Pet. 🐶💖🐈 </p>
 <p> 📺 Séries |♏ Astrologia |🕉 Musica 
-<p>🌱Analise e Desenvolvimento de sistemas pela Anhanguera. </p>
 
 
 <div align="center">
